@@ -22,3 +22,7 @@
 - 타입을 쓰고 바로 오른쪽에 포인터나 레퍼런스를 쓰고 난 뒤 한칸의 공백을 두도록 합시다.
 - **주석을 성실하게 작성하도록 합니다. (다만 알아 볼 수 있게)**
 - **행복하고 즐거운 코딩이 되도록 합니다.**
+
+
+## demo 
+[![Gameplay Video](https://img.youtube.com/vi/fv3KM1z-mNM/0.jpg)](https://youtu.be/fv3KM1z-mNM)
